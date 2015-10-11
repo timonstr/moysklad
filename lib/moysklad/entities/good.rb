@@ -16,6 +16,7 @@ module Moysklad::Entities
     attribute :parentUuid,        String
     attribute :productCode,       String
     attribute :uomUuid,           String
+    attribute :countryUuid,       String
 
     element   :code,              String
     element   :salePrices,        Moysklad::Entities::SalePrices
