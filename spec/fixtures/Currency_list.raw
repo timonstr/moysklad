@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Fri, 06 Nov 2015 15:40:35 GMT
+Content-Type: application/xml
+Content-Length: 2484
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: max-age=0
+Expires: Fri, 06 Nov 2015 15:40:35 GMT
+Strict-Transport-Security: max-age=15552000
+
+<?xml version="1.0" encoding="UTF-8"?>
+<collection total="4" start="0" count="1000">
+<currency enteredRate="1.0" invertRate="false" rate="1.0" name="грн" updated="2011-11-02T22:42:17.492+04:00" updatedBy="admin@take"><accountUuid>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountUuid><accountId>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountId><uuid>515cdda0-7a83-44a4-85c3-622b2d775f39</uuid><groupUuid>01d11437-d269-11e4-90a2-8ecb00020635</groupUuid><shared>false</shared><code>980</code><externalcode>643</externalcode><description>Украинская гривна</description><major s1="гривна" s24="гривни" s5="гривен" sex="70"/><minor s1="копейка" s24="копейки" s5="копеек" sex="70"/></currency><currency enteredRate="0.5" invertRate="false" rate="0.5" name="руб" updated="2015-02-23T11:01:26.333+03:00" updatedBy="admin@take"><accountUuid>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountUuid><accountId>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountId><uuid>74b0c7f9-3993-4e35-8f50-79c8e68408f8</uuid><groupUuid>01d11437-d269-11e4-90a2-8ecb00020635</groupUuid><shared>false</shared><code>643</code><externalcode>643</externalcode><description>Рубль</description><major s1="рубль" s24="рубля" s5="рублей" sex="77"/><minor s1="копейка" s24="копейки" s5="копеек" sex="70"/></currency><currency enteredRate="26.6" invertRate="false" rate="26.6" name="EUR" updated="2015-11-05T13:59:56.653+03:00" updatedBy="marina@take"><accountUuid>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountUuid><accountId>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountId><uuid>a7bc3bdb-d98c-42f9-ab49-5b98515480eb</uuid><groupUuid>01d11437-d269-11e4-90a2-8ecb00020635</groupUuid><shared>false</shared><code>978</code><externalcode>978</externalcode><description>Euro</description><major s1="" s24="" s5="" sex="77"/><minor s1="" s24="" s5="" sex="70"/></currency><currency enteredRate="30.96" invertRate="false" rate="30.96" name="USD" updated="2015-02-23T11:00:19.250+03:00" updatedBy="admin@take"><accountUuid>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountUuid><accountId>48620346-0e7b-11e2-70b1-3c4a92f3a0a7</accountId><uuid>feeb5066-2704-4b78-a204-c426804f25a0</uuid><groupUuid>01d11437-d269-11e4-90a2-8ecb00020635</groupUuid><shared>false</shared><code>840</code><externalcode>840</externalcode><description>US dollar</description><major s1="" s24="" s5="" sex="77"/><minor s1="" s24="" s5="" sex="70"/></currency>
+</collection>

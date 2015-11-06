@@ -41,6 +41,7 @@ module Moysklad
       Collection
       CustomEntity
       Page
+      Currency
     }.each do |m|
       autoload m
     end
